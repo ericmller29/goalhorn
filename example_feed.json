@@ -1,0 +1,77 @@
+{
+   "copyright":"NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2018. All Rights Reserved.",
+   "totalItems":1,
+   "totalEvents":0,
+   "totalGames":1,
+   "totalMatches":0,
+   "wait":10,
+   "dates":[
+      {
+         "date":"2018-12-31",
+         "totalItems":1,
+         "totalEvents":0,
+         "totalGames":1,
+         "totalMatches":0,
+         "games":[
+            {
+               "gamePk":2018020603,
+               "link":"/api/v1/game/2018020603/feed/live",
+               "gameType":"R",
+               "season":"20182019",
+               "gameDate":"2018-12-31T23:00:00Z",
+               "status":{
+                  "abstractGameState":"Preview",
+                  "codedGameState":"1",
+                  "detailedState":"Scheduled",
+                  "statusCode":"1",
+                  "startTimeTBD":false
+               },
+               "teams":{
+                  "away":{
+                     "leagueRecord":{
+                        "wins":20,
+                        "losses":12,
+                        "ot":6,
+                        "type":"league"
+                     },
+                     "score":0,
+                     "team":{
+                        "id":5,
+                        "name":"Pittsburgh Penguins",
+                        "link":"/api/v1/teams/5"
+                     }
+                  },
+                  "home":{
+                     "leagueRecord":{
+                        "wins":18,
+                        "losses":16,
+                        "ot":3,
+                        "type":"league"
+                     },
+                     "score":0,
+                     "team":{
+                        "id":30,
+                        "name":"Minnesota Wild",
+                        "link":"/api/v1/teams/30"
+                     }
+                  }
+               },
+               "venue":{
+                  "id":5098,
+                  "name":"Xcel Energy Center",
+                  "link":"/api/v1/venues/5098"
+               },
+               "content":{
+                  "link":"/api/v1/game/2018020603/content"
+               }
+            }
+         ],
+         "events":[
+
+         ],
+         "matches":[
+
+         ]
+      }
+   ]
+}
